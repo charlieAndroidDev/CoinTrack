@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/ticker_item"
+            android:title="@string/ticker" />
+        <item
+            android:id="@+id/news_item"
+            android:title="@string/news" />
+        <item
+            android:id="@+id/markets_item"
+            android:title="@string/markets" />
+        <item
+            android:id="@+id/login_item"
+            android:title="@string/login" />
+        <item
+            android:id="@+id/settings_item"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/feedback_item"
+            android:title="@string/feedback" />
+        <item
+            android:id="@+id/about_item"
+            android:title="@string/about" />
+    </group>
+</menu>
